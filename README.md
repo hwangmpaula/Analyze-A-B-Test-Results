@@ -30,6 +30,5 @@ The goal is to work through this notebook to help the company understand if they
 
 License
 ----
-
 MIT
 
