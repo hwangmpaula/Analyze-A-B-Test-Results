@@ -20,7 +20,7 @@ The goal is to work through this notebook to help the company understand if they
 
 ### 
 
-Analyze-A-B-Test-Results uses some open source projects to work properly:
+##### Analyze-A-B-Test-Results uses some open source projects to work properly:
 
 * [Jupyter Notebook] or [Python 3] - jupyter notebook is an open source and used to data analyze with python code
 * [matplotlib] - uses to facilitate the data analyzation by displaying the plots
