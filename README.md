@@ -11,7 +11,7 @@ The goal is to work through this notebook to help the company understand if they
   
   - Answers to the questions
   - Code to solve the problems 
-  - Comments when necessarary
+  - Comments when necessary
 
 ##### Another Files in Analyze-A-B-Test-Results:
   - "ab_data.csv" and "countries.csv" are files that consists of data and used as to data analyzation. 
